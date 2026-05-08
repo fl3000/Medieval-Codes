@@ -1,5 +1,6 @@
 <h1>Medieval Code Imitator</h1>
-<i>(Klosterfenster-Generator 1.0)</i>i
+<i>(Klosterfenster-Generator 1.0)</i>
+<br><br>
 <p>Some of the worlds oldest monastrys do show strange and beautiful patterns in their windows. Is there a secret code hidden?</p>
 <p>This script tries to replicate the look of those medieval windows, however it doesn't really put a code inside it ;-)</p>
 
